@@ -1,0 +1,10 @@
+br\org\com\recode\model\EmpresaModel.class
+br\org\com\recode\repository\ServicoRepository.class
+br\org\com\recode\repository\EmpresaRepository.class
+br\org\com\recode\model\ServicoModel.class
+br\org\com\recode\model\ClienteModel.class
+br\org\com\recode\controller\ServicoController.class
+br\org\com\recode\CoopComunitariaApplication.class
+br\org\com\recode\repository\ClienteRepository.class
+br\org\com\recode\controller\EmpresaController.class
+br\org\com\recode\controller\ClienteController.class
